@@ -1,0 +1,1 @@
+The Firebase SDK may throw an error if the provided configuration object is invalid or missing required fields. This can happen if the `apiKey`, `authDomain`, `databaseURL`, `projectId`, `storageBucket`, or `messagingSenderId` are incorrect or absent from your `firebase.json` file or environment variables.
